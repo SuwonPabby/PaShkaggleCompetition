@@ -32,5 +32,4 @@
 
 ### PREFIX
 
-<img src="https://drive.google.com/uc?id=1klDIcVKRYaFNGjtLE4-0QKlZPUVgMBAJ
-" width=600>
+<img src="https://drive.google.com/uc?id=1klDIcVKRYaFNGjtLE4-0QKlZPUVgMBAJ" width=600>
