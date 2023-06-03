@@ -40,4 +40,4 @@
 - 작업 Branch에서 작업이 완료되고 Main Branch로 Merge 하고자 할 때 PR를 날립니다.
 - PR 내용을 검토하고 Approve가 되면 Merge 합니다.
 - 만약 Merge를 하는 과정에서 Collision이 발생한다면 카톡으로 연락을 보냅니다.
-- Branch 이름: Prefix/이슈번호
+- Branch 이름: Prefix/#이슈번호
